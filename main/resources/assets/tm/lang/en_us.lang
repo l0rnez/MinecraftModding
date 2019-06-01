@@ -1,0 +1,18 @@
+//Items
+item.emerald_ingot.name=Emerald Ingot
+item.purple_dust.name=Purple Dust
+item.purple_sword.name=Purple Sword
+
+//Food
+item.purple_apple.name=Purple Apple
+
+//Blocks
+tile.purple_ore.name=Purple Ore
+tile.teleporter.name=Teleporter
+
+//Potions
+//effect.test_potion=Test Potion
+//potion.effect.test_potion = Potion of your Potion
+
+//Armor
+item.purple_boots.name=Purple Boots
